@@ -1,0 +1,103 @@
+
+#hfont{
+    font-family: 'Merriweather', serif;
+}
+
+#header{
+  background-image: url("landing.jpg");
+  height: 600;
+  padding: 80
+}
+#moto{
+  color: white
+}
+#happy{
+padding-top: 20
+}
+#orange{
+  background-color: #F76222;
+  padding:20;
+  color:white
+}
+#breakfast{
+  background-image: url("breakfast.jpg");
+  padding: 80;
+  color: seashell
+}
+#lunch{
+  background-image: url("lunch.jpg");
+  padding: 80;
+  color: seashell
+
+}
+#dinner{
+  background-image: url("dinner.jpg");
+  padding: 80;
+    color: seashell
+}
+#menu{
+  background-image: url("foodsBg")
+}
+#fastfood{
+  padding-top: 90;
+  padding-left:50;
+border-style:inset;
+border-color: grey;
+border-width: thick;
+
+}
+#food{
+  padding-top: 80;
+  padding-left: 50
+}
+#drink{
+  padding-top: 80;
+  padding-left:50
+}
+
+#drinks{
+  padding-top: 90;
+  padding-left:50;
+  border-style:inset;
+  border-color: grey;
+  border-width: thick;
+}
+#menu{
+background-image: url("foodsBg.jpg");
+height: 400
+}
+.boxed{
+ padding-top:100;
+}
+#customer{
+  padding-left: 180;
+   padding-top:100;
+}
+#about{
+  padding-right: 200;
+   padding-top:100;
+}
+#form{
+background-image: url("subscribe.jpg");
+}
+#email{
+  padding: 70;
+  color:white
+}
+#last{
+  background-color: #F76222;
+  color:white;
+  padding: 80;
+  font-size: 35;
+}
+#mstyle{
+  font-family: 'Merriweather', serif;
+}
+#that{
+  font-size: 20px;
+}
+#footer{
+  padding-top:60;
+  font-size: 12px
+
+}
